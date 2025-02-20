@@ -1,7 +1,7 @@
-# Pydantic models for Nokia SR Linux
+# Pydantic models for Huawei VRP 2 (Huawei Switches CloudEngine 5700/6700)
 
 > [!IMPORTANT]
-> This is an experimental project that may graduate to a proper set of Pydantic models for SR Linux in the near future.
+> This is an experimental project that may graduate to a proper set of Pydantic models for Huawei VRP in the near future.
 >
 > Limitations:
 >
